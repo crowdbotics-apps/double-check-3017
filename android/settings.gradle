@@ -1,0 +1,3 @@
+rootProject.name = 'double_check_3017'
+
+include ':app'
